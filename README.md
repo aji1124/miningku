@@ -1,2 +1,0 @@
-# miningku
-for mining vps
